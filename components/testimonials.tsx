@@ -29,7 +29,7 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow"> I've been using this physics website for a few weeks now, and it has helped me understand complex concepts. 
+              <blockquote className="text-lg text-gray-400 grow">  I am thoroughly impressed by their exceptional services in automating businesses with AI integrations. Their expertise in leveraging Google and Facebook ads to grow leads is truly remarkable. I highly recommend Noxiz for their innovative solutions and outstanding results ! ⭐⭐⭐⭐
 </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Alex Schachne</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="https://www.instagram.com/_alexshaq/">Connect</a>
@@ -46,7 +46,8 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow"> I have struggled with physics in the past, but this website and my physics teacher have completely turned things around for me.
+              <blockquote className="text-lg text-gray-400 grow">
+Noxiz is an absolute game-changer! Their seamless integration of AI into business operations has streamlined our processes beyond belief and results-driven—Noxiz has my highest recommendation! 🌟🌟🌟🌟
 </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
               <cite className="text-gray-200 not-italic">Hayley Harris</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="https://www.instagram.com/hayyleyharris/">Connect</a>
@@ -63,7 +64,7 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow"> The content is presented in a clear and engaging manner, making it easy to grasp complex concepts. 
+              <blockquote className="text-lg text-gray-400 grow">Exceptional service, impeccable results—Noxiz gets a perfect score from me. Additionally, their mastery of Google and Facebook ads has significantly boosted our lead generation efforts.🌟🌟🌟🌟🌟
 </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Oleg
