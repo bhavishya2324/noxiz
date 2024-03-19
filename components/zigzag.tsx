@@ -52,7 +52,7 @@ export default function Zigzag() {
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-left">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2"> Transform Your Business with AI</div>
-                  <h3 className="h3 mb-3"> Your Secret Weapon for Business Expansion AI " </h3>
+                  <h3 className="h3 mb-3"> Your Secret Weapon for Business Expansion AI  </h3>
                   <p className="text-xl text-gray-400 mb-4">
 
                   🔥 Embrace the mastery of AI and unlock a world of infinite possibilities! Imagine a future where every aspect of your business is optimized for peak performance, from marketing strategies tailored to individual preferences to operational efficiencies that streamline your workflow.  </p>
