@@ -8,14 +8,14 @@ export default function Header() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="flex items-center justify-between h-20">
           {/* Site branding */}
-          <div className="shrink-0 mr-4">
+          <div className="shrink-0 mr-5">
             {/* Logo */}
             <Link href="/" className="block" aria-label="Cruip">
             <Image
                
                 src={logonoxiz}
-                width={100}
-                height={ 100}
+                width={80}
+                height={ 80}
                 alt="Noxiz-logo"
               />
               
