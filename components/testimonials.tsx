@@ -29,7 +29,7 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">  I am thoroughly impressed by their exceptional services in automating businesses with AI integrations. Their expertise in leveraging Google and Facebook ads to grow leads is truly remarkable. I highly recommend Noxiz for their innovative solutions and outstanding results ! ⭐⭐⭐⭐
+              <blockquote className="text-lg text-gray-400 grow">  I am thoroughly impressed by their exceptional services in automating businesses with AI integrations. Their expertise in leveraging Google and Facebook ads to grow leads is truly remarkable. I highly recommend Noxiz for their innovative solutions and outstanding results ! 🌟🌟🌟🌟🌟
 </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Alex Schachne</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="https://www.instagram.com/_alexshaq/">Connect</a>
