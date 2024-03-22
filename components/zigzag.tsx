@@ -103,7 +103,42 @@ export default function Zigzag() {
               </div>
             </div>
 
-           
+             {/* 5th item */}
+            <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+              {/* Image */}
+              <div
+                className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1"
+                data-aos="fade-up"
+              >
+                <Image
+                  className="max-w-full mx-auto md:max-w-none h-auto"
+                  src={websiteDesign}
+                  width={540}
+                  height={405}
+                  alt="Features 01"
+                />
+              </div>
+              {/* Content */}
+              <div
+                className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6"
+                data-aos="fade-right"
+              >
+                <div className="md:pr-4 lg:pr-12 xl:pr-16">
+                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                    Web Development
+                  </div>
+                  <h3 className="h3 mb-3">
+                    
+                  Discover the Artistry of Web Development! 🔥
+                  </h3>
+                  <p className="text-xl text-gray-400 mb-4">
+                  Embark on a voyage of innovation and creativity! Our web development expertise will sculpt your digital footprint and propel your success!
+                  </p>
+                </div>
+              </div>
+            </div>
+
+
 
           </div>
 
