@@ -22,7 +22,7 @@ export default function books() {
           {/* Page header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
           <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">🎯 Reach Your Audience, Grow Your Business </div>
-            <h1 className="h2">🚀 Scale Your Business Beyond Limits </h1>
+            <h1 className="h3">Scale Your Business Beyond Limits 🚀  </h1>
           </div>
 
 
@@ -71,32 +71,7 @@ export default function books() {
 </div>
 
 
-{/* 4th item */}
-
-
-{/* 5th item */}
-
-
-
-
 </div>
-
-
-
-
- {/* Image */}
- {/* <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl" data-aos="fade-up">
-                <Image className="max-w-full mx-auto md:max-w-none h-auto" src={bookimg} width={540} height={405} alt="Features 02" />
-              </div>
-
-
-              <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn flex items-center text-white bg-purple-600 hover:bg-purple-700 w-full mt-3 sm:w-auto sm:mb-0" href="https://www.amazon.in/Educart-PHYSICS-Chapterwise-Question-2023-2024/dp/B0C1WNH7JS?ref_=ast_sto_dp">Buy Now</a>
-              </div> */}
-
-                
-
-
 
         </div>
       </div>
