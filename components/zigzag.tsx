@@ -3,6 +3,7 @@ import Image from 'next/image'
 import AiImg from '@/public/images/AI-retail-planning1.jpg'
 import Fbimg from '@/public/images/facebook-ads.jpeg'
 import googleAds from '@/public/images/Google-Ads-1-43.jpg'
+import websiteDesign from "@/public/images/website design.jpg";
 
 export default function Zigzag() {
   return (
