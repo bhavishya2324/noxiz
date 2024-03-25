@@ -20,7 +20,7 @@ export default function Banner() {
                 Join<span className="hidden sm:inline"> X</span>
               </a>{' '}
               <span className="italic px-1.5">or</span>{' '}
-              <a className="font-medium hover:underline text-emerald-400" href="https://www.instagram.com/noxiz.us/" target="_blank" rel="noreferrer">
+              <a className="font-medium hover:underline text-emerald-400" href="https://www.instagram.com/noxiz.ig/" target="_blank" rel="noreferrer">
                 Follow on Instagram
               </a>
             </div>
